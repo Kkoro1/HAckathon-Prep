@@ -2,6 +2,8 @@
 
 Oct.31.2019
 
+* Khan Academy
+
   + Intro to HTML/CSS - done
   
   + Intro to JS - done
