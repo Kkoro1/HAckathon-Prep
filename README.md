@@ -17,3 +17,7 @@ Oct.31.2019
   + JQuery - started
   
   + Natural Simulations - one project left to complete
+  
+* FreeCodeCamp
+  
+  + nothing has been started
