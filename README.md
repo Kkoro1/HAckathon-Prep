@@ -43,4 +43,4 @@ Nov.4.2019
   
 * FreeCodeCamp
   
-  + nothing has been started
+  + 23/28 done of Basic HTML and HTML5
