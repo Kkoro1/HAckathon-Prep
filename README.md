@@ -44,3 +44,26 @@ Nov.4.2019
 * FreeCodeCamp
   
   + 23/28 done of Basic HTML and HTML5
+
+Nov.6.2019
+
+* Khan Academy
+
+  + Intro to HTML/CSS - done
+  
+  + Intro to JS - done
+  
+  + Advanced JS: Games and Visualizations - done
+  
+  + SQL - started
+  
+  + Making webpages interactive(DOM) - done
+  
+  + JQuery - started
+  
+  + Natural Simulations - done
+  
+* FreeCodeCamp
+  
+  + Basic HTML and HTML5 - done
+  + Basic CSS - 8/44
