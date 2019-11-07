@@ -55,7 +55,7 @@ Nov.6.2019
   
   + Advanced JS: Games and Visualizations - done
   
-  + SQL - started
+  + SQL - done
   
   + Making webpages interactive(DOM) - done
   
@@ -66,4 +66,4 @@ Nov.6.2019
 * FreeCodeCamp
   
   + Basic HTML and HTML5 - done
-  + Basic CSS - 8/44
+  + Basic CSS - done
