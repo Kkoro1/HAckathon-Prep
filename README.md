@@ -13,6 +13,7 @@
 * FreeCodeCamp
   
   + Responsive Web Design Certification - done
+  
   + JavaScript Algorithms and Data structures Certification - done
   + Front-end Library Certification - started
   + Data-visualization - not started
