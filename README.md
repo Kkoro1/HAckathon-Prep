@@ -1,6 +1,7 @@
 # HAckathon-Prep
 
 * Khan Academy
+<img width="739" alt="Screen Shot 2019-11-18 at 8 57 02 PM" src="https://user-images.githubusercontent.com/36044703/69109509-fead1a80-0a45-11ea-9808-c6ec0f913705.png">
 
   + Intro to HTML/CSS - done
   + Intro to JS - done
