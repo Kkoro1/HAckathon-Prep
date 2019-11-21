@@ -20,6 +20,6 @@
   <img width="791" alt="Screen Shot 2019-11-18 at 8 17 19 PM" src="https://user-images.githubusercontent.com/36044703/69107757-78420a00-0a40-11ea-937b-6c7e5f6f5f71.png">
   
   + Front-end Library Certification - started
-  
+  <img width="573" alt="Screen Shot 2019-11-20 at 11 48 25 PM" src="https://user-images.githubusercontent.com/36044703/69304916-5b4c3900-0bf0-11ea-99f9-34c0534a5d38.png">
   
   + Data-visualization - not started
