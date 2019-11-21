@@ -23,6 +23,6 @@
   <img width="573" alt="Screen Shot 2019-11-20 at 11 48 25 PM" src="https://user-images.githubusercontent.com/36044703/69304916-5b4c3900-0bf0-11ea-99f9-34c0534a5d38.png">
   
   + Data-visualization - done
-   
+   <img width="520" alt="Screen Shot 2019-11-21 at 2 17 04 PM" src="https://user-images.githubusercontent.com/36044703/69369206-a8202600-0c69-11ea-9c42-2f78d10a94c3.png">
    
   + APIs and Microservices - started
