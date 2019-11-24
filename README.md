@@ -23,9 +23,8 @@
   <img width="573" alt="Screen Shot 2019-11-20 at 11 48 25 PM" src="https://user-images.githubusercontent.com/36044703/69304916-5b4c3900-0bf0-11ea-99f9-34c0534a5d38.png">
   
   + Data-visualization - done
+      - so the last challenge of JSON APIs and Ajax isn't working, everything is there but the site is saying it isn't
    <img width="520" alt="Screen Shot 2019-11-21 at 2 17 04 PM" src="https://user-images.githubusercontent.com/36044703/69369206-a8202600-0c69-11ea-9c42-2f78d10a94c3.png">
-      
-     - so the last challenge of JSON APIs and Ajax isn't working, everything is there but the site is saying it isn't
    
   + APIs and Microservices - halfway there
       - challenge 9 of basic node and express isn't working, I've looked everywhere and tried many solutions but none are working
