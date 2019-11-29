@@ -28,8 +28,8 @@
   + APIs and Microservices - done
    <img width="600" alt="Screen Shot 2019-11-28 at 8 40 10 PM" src="https://user-images.githubusercontent.com/36044703/69837962-58b89780-121f-11ea-9ec0-b219469c94da.png">
 
-     - Basic Node and Express: 
+      - Basic Node and Express: 
       https://glitch.com/edit/#!/bottlenose-polyanthus?path=myApp.js:48:3
-     - MongoDB and Mongoose: 
+       - MongoDB and Mongoose: 
       https://glitch.com/edit/#!/candied-brass?path=myApp.js:278:2
 
