@@ -23,13 +23,13 @@
   <img width="573" alt="Screen Shot 2019-11-20 at 11 48 25 PM" src="https://user-images.githubusercontent.com/36044703/69304916-5b4c3900-0bf0-11ea-99f9-34c0534a5d38.png">
   
   + Data-visualization - done
-   <img width="520" alt="Screen Shot 2019-11-21 at 2 17 04 PM" src="https://user-images.githubusercontent.com/36044703/69369206-a8202600-0c69-11ea-9c42-2f78d10a94c3.png">
+   <img width="608" alt="Screen Shot 2019-11-28 at 8 40 19 PM" src="https://user-images.githubusercontent.com/36044703/69837963-58b89780-121f-11ea-83db-b2093abf3ef3.png">
    
   + APIs and Microservices - done
-  
-  
-      - Basic Node and Express: 
+   <img width="600" alt="Screen Shot 2019-11-28 at 8 40 10 PM" src="https://user-images.githubusercontent.com/36044703/69837962-58b89780-121f-11ea-9ec0-b219469c94da.png">
+
+     - Basic Node and Express: 
       https://glitch.com/edit/#!/bottlenose-polyanthus?path=myApp.js:48:3
-      - MongoDB and Mongoose: 
+     - MongoDB and Mongoose: 
       https://glitch.com/edit/#!/candied-brass?path=myApp.js:278:2
 
